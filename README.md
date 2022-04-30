@@ -4,7 +4,6 @@ This contains different solutions even including Brian's Crash Course (https://w
 
 I am still adding items to this book. This will be at least 100MB book! A big book!
 
-
 ![What?](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## Collaborate
